@@ -4,9 +4,11 @@ World content bundles contain a `world.json` file in the root of the bundle. Her
 
 ```json
 {
-  "schema_version": "1.0",
-  "name": "The Longest Night",
-  "description": "A lone star casts its light",
+  "info": {
+    "schema_version": "1.0",
+    "name": "The Longest Night",
+    "description": "A lone star casts its light"
+  },
   "models": {
     {
       "path": "./world.gltf"

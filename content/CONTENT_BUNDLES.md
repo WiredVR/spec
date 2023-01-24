@@ -13,11 +13,7 @@ All shaders **MUST** use the SPIR-V format with the `.spv` file extension. This 
 
 All scripts **MUST** use the webassembly module format with the `.wasm` file extension.
 
-### Routing / Loading Sources
-
-TBD.
-
 ### Content Bundles Types
 
 - [Worlds](./world/WORLDS.md)
-- [Avatars](./avtar/AVATARS.md)
+- [Avatars](./avatar/AVATARS.md)

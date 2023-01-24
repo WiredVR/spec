@@ -20,3 +20,6 @@ The Wired has the following design goals:
   - [Worlds](./content/world/WORLDS.md)
     - [Interactions](./content/world/INTERACTIONS.md)
   - [Avatars](./content/avatar/AVATARS.md)
+- [Networking](./networking/NETWORKING.md)
+  - [Search and Discovery](./networking/SEARCH_AND_DISCOVERY.md)
+  - [Content Loading](./networking/CONTENT_LOADING.md)
